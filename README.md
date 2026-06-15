@@ -26,6 +26,7 @@ Drop-in checks you call before passing untrusted text to an LLM.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Comprehensive LLM input/output security suite, includes prompt injection scanner.
 - [PromptArmor](https://github.com/promptarmor/promptarmor) - Hosted prompt injection detection API.
 - [Lakera Guard](https://www.lakera.ai/lakera-guard) - Commercial guardrail with a generous free tier.
+- [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) - Browser extension that detects and strips prompt injection (hidden text and HTML comments) from web pages before an agent's LLM sees them; also masks PII and removes dark patterns.
 
 ## RAG-specific guardrails
 
