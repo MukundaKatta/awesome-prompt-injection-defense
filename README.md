@@ -35,6 +35,7 @@ Prompt injection in RAG often hides inside retrieved documents (indirect injecti
 - [rag-guardrails-action](https://github.com/MukundaKatta/rag-guardrails-action) - GitHub Action that runs both detectors over a fixtures directory in CI.
 - [LangChain Guardrails](https://python.langchain.com/docs/guardrails/) - Built-in chain-of-trust patterns for LangChain-based RAG.
 - [LlamaIndex SafetyToolkit](https://docs.llamaindex.ai/en/stable/module_guides/evaluating/) - Evaluation hooks usable as guardrails.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels.
 
 ## Evaluation datasets
 
