@@ -22,6 +22,7 @@ Drop-in checks you call before passing untrusted text to an LLM.
 
 - [prompt-injection-shield](https://github.com/MukundaKatta/prompt-injection-shield) (npm) - Zero-dep detector for classic override, URL exfiltration, system-prompt impersonation, and tool-call hijack patterns.
 - [prompt-injection-shield-py](https://pypi.org/project/prompt-injection-shield-py/) (PyPI) - Python port of the above with the same rule set.
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner and MCP proxy for prompt injection, credential leakage, exfiltration, and risky tool-call detection before execution.
 - [Rebuff](https://github.com/protectai/rebuff) - Self-hardening prompt injection detector, originally by ProtectAI.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Comprehensive LLM input/output security suite, includes prompt injection scanner.
 - [PromptArmor](https://github.com/promptarmor/promptarmor) - Hosted prompt injection detection API.
