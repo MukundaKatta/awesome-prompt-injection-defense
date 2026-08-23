@@ -57,6 +57,7 @@ Try detectors in the browser.
 Plug into pull-request flows.
 
 - [rag-guardrails-action](https://github.com/MukundaKatta/rag-guardrails-action) - Composite Action wrapping prompt-injection-shield + vector-poison-score. Fail on high severity, warn on medium.
+- [Sentinel Scan](https://github.com/Ventrova/sentinel-scan-cli) - CLI for authorized LLM red-team audits, runs prompt injection, jailbreak, and data-leak probes and produces a scored report you can gate a PR on.
 
 ## Research papers and preprints
 
