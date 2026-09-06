@@ -64,6 +64,7 @@ Plug into pull-request flows.
 - [Greshake et al., Not what you've signed up for](https://arxiv.org/abs/2302.12173) - Foundational paper on indirect prompt injection.
 - [Perez and Ribeiro, Ignore Previous Prompt](https://arxiv.org/abs/2211.09527) - Early study of prompt injection.
 - [Liu et al., Prompt Injection Attacks and Defenses in LLM-Integrated Applications](https://arxiv.org/abs/2310.12815) - Systematisation of attack and defense space.
+- [Bosch, Behavioral Canarying for Prompt Injection: Powerless Model Probes with Explicit Coverage Semantics](https://doi.org/10.5281/zenodo.21820059) - Zenodo technical note, not a preprint. Documents the pre-execution sensing architecture behind [Little Canary](https://github.com/hermes-labs-ai/little-canary): untrusted input reaches a powerless sacrificial model before a behavioral check reads the residue, with an explicit separation between routing disposition and inspection coverage.
 
 ## Adjacent reliability tooling
 
