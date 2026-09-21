@@ -24,6 +24,7 @@ Drop-in checks you call before passing untrusted text to an LLM.
 - [prompt-injection-shield-py](https://pypi.org/project/prompt-injection-shield-py/) (PyPI) - Python port of the above with the same rule set.
 - [Rebuff](https://github.com/protectai/rebuff) - Self-hardening prompt injection detector, originally by ProtectAI.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Comprehensive LLM input/output security suite, includes prompt injection scanner.
+- [Patronus Protect](https://api.patronus.studio/) - Hosted API for detecting prompt injection in text, public webpages and documents before use in agents or RAG pipelines; free tier available.
 - [PromptArmor](https://github.com/promptarmor/promptarmor) - Hosted prompt injection detection API.
 - [Lakera Guard](https://www.lakera.ai/lakera-guard) - Commercial guardrail with a generous free tier.
 
