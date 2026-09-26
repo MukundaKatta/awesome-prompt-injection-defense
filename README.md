@@ -40,6 +40,7 @@ Prompt injection in RAG often hides inside retrieved documents (indirect injecti
 
 Labeled corpora for benchmarking detectors.
 
+- [buried-injections](https://github.com/rudratoshs/buried-injections) - Reproducible benchmark scoring 10 open-source injection detectors on 629 realistic AgentDojo attacks buried in tool output, with false positives measured on benign traffic (best detector ~51%). One command reproduces the leaderboard. MIT.
 - [prompt-injection-eval](https://huggingface.co/datasets/mukunda1729/prompt-injection-eval) - 74 hand-curated rows across 9 categories (classic override, URL exfil, system impersonation, tool hijack, role override, encoded, indirect RAG poison, borderline, benign). MIT.
 - [deepset/prompt-injections](https://huggingface.co/datasets/deepset/prompt-injections) - Larger English/German prompt injection corpus.
 - [JailbreakBench](https://github.com/JailbreakBench/jailbreakbench) - Standardised benchmark for jailbreaks (related but broader category).
