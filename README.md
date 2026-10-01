@@ -24,6 +24,7 @@ Drop-in checks you call before passing untrusted text to an LLM.
 - [prompt-injection-shield-py](https://pypi.org/project/prompt-injection-shield-py/) (PyPI) - Python port of the above with the same rule set.
 - [Rebuff](https://github.com/protectai/rebuff) - Self-hardening prompt injection detector, originally by ProtectAI.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Comprehensive LLM input/output security suite, includes prompt injection scanner.
+- [Little Canary](https://github.com/hermes-labs-ai/little-canary) (PyPI) - Local prompt-injection preflight sensor: routes untrusted input through a powerless sacrificial model and returns explicit PASS / FLAG / BLOCK with coverage state before the primary agent acts; experimental sensing layer, not a security guarantee.
 - [PromptArmor](https://github.com/promptarmor/promptarmor) - Hosted prompt injection detection API.
 - [Lakera Guard](https://www.lakera.ai/lakera-guard) - Commercial guardrail with a generous free tier.
 
