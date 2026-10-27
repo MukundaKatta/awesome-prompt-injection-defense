@@ -80,6 +80,8 @@ Not strictly prompt-injection but commonly composed with it.
 
 - [OWASP LLM Top 10: LLM01 Prompt Injection](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - The community baseline.
 - [Simon Willison: Prompt injection](https://simonwillison.net/series/prompt-injection/) - Long-running blog series with field reports.
+- [LOKI Intelligence: MCP Security Testing Checklist](https://loki-intelligence.com/blog/mcp-security-testing-checklist) - 12-step practitioner checklist for testing MCP tool schemas, OAuth scoping, and indirect prompt injection across tool outputs.
+- [LOKI Intelligence: Prompt Injection Testing Guide](https://loki-intelligence.com/blog/prompt-injection-testing-guide) - Field guide for testing direct and indirect prompt injection, tool misuse, and cross-tenant data boundaries.
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) - Government view on LLM risk categories.
 
 ## Contributing
