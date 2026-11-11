@@ -69,6 +69,7 @@ Plug into pull-request flows.
 
 Not strictly prompt-injection but commonly composed with it.
 
+- [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) - Synthetic retry-failure simulator with persisted-state assertions and JSON trace replay for inspecting recovery decisions.
 - [APort](https://github.com/aporthq/aport-integrations) - Open-source integration toolkit for APort, a neutral trust rail for AI agents.
 - [agentvet](https://github.com/MukundaKatta/agentvet) - Validate LLM tool-call arguments before execution.
 - [agentguard](https://github.com/MukundaKatta/agentguard) - Network egress firewall for tool-using agents.
