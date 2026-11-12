@@ -26,6 +26,7 @@ Drop-in checks you call before passing untrusted text to an LLM.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Comprehensive LLM input/output security suite, includes prompt injection scanner.
 - [PromptArmor](https://github.com/promptarmor/promptarmor) - Hosted prompt injection detection API.
 - [Lakera Guard](https://www.lakera.ai/lakera-guard) - Commercial guardrail with a generous free tier.
+- [Glitchward LLM Shield](https://glitchward.com/shield) - Hosted API for detecting prompt injection, jailbreaks, and obfuscated attacks in LLM inputs. Free tier includes 1,000 requests/month.
 
 ## RAG-specific guardrails
 
